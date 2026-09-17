@@ -1,0 +1,24 @@
+[color=#f39f27]░░▄▀░░ [head=3] Pre-Startup Reactor Inspection Checklist[/head]
+░▄█▄▄▀ [bold] Generation & Maintenance  [/bold]
+██▀░░░ [bold] Author: [signature] [/bold]
+[head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves to promote proper engineering protocol and eliminate unsafe working practices. It is generalised for most NanoTrasen nuclear reactor installations, and engineers are encouraged to note station specific infrastructure.
+
+Date: 2984-[form]-[form]
+Station Time: [form]:[form]
+
+[check] The emergency purge valve is closed
+
+[check] The cooling loop bypass valves are closed
+
+[check] The [bold][color=#018260]feedwater gas pipenet[/bold][/color] is completely sealed, from gas turbine output to nuclear reactor input
+
+[check] The [bold][color=#685313]pressurised gas pipenet[/bold][/color] is completely sealed, from nuclear reactor output to steam turbine input
+
+
+[head=2]Additional Notes (Optional):[/head]
+[form]
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]The assigned engineer accepts full responsibility for the safe operation of the Nuclear Reactor, and is fully liable if the above information is found to be falsified or incorrect.
