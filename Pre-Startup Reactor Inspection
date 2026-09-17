@@ -1,6 +1,6 @@
 [color=#f39f27]░░▄▀░░ [head=3] Pre-Startup Reactor Inspection Checklist[/head]
 ░▄█▄▄▀ [bold] Generation & Maintenance  [/bold]
-██▀░░░ [bold] Author: [signature] [/bold]
+██▀░░░ [bold] Author: [/color][signature][color=#f39f27] [/bold]
 [head=3]////////////////////////////////////////////////////[/head][/color]
 
 This document serves to promote proper engineering protocol and eliminate unsafe working practices. It is generalised for most NanoTrasen nuclear reactor installations, and engineers are encouraged to note station specific infrastructure.
@@ -17,7 +17,7 @@ Station Time: [form]:[form]
 [check] The [bold][color=#685313]pressurised gas pipenet[/bold][/color] is completely sealed, from nuclear reactor output to steam turbine input
 
 
-[head=2]Additional Notes (Optional):[/head]
+[head=3]Additional Notes (Optional):[/head]
 [form]
 
 [color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
