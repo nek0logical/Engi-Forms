@@ -16,6 +16,12 @@ Station Time: [form]:[form]
 
 [check] The [bold][color=#685313]pressurised gas pipenet[/bold][/color] is completely sealed, from nuclear reactor output to steam turbine input
 
+[check] The nuclear reactor monitor, if one exists, is linked to the nuclear reactor
+
+[check] The gas turbine monitor, if one exists is linked to the gas turbine
+
+[check] The gas turbine's blades and stator assembly are in good condition inside the gas turbine
+
 
 [head=3]Additional Notes (Optional):[/head]
 [form]
