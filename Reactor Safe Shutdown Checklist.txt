@@ -1,5 +1,5 @@
 [color=#f39f27]░░▄▀░░ [head=3] Reactor Safe Shutdown Checklist [/head]
-░▄█▄▄▀ [bold] Generation & Maintenance  [/bold]
+░▄█▄▄▀ [bold] Generation & Maintenance ENG-N02[/bold]
 ██▀░░░ [bold] Author: [/color][signature][color=#f39f27] [/bold]
 [head=3]////////////////////////////////////////////////////[/head][/color]
 
@@ -14,11 +14,11 @@ Station Time: [form]:[form]
 
 3. The fuel rods have been safely extracted from the reactor using gloves, and recycled [check]
 
-4a. Pressurised gas has been purged into space [check]
+4a. Pressurised coolant gas has been purged into space [check]
 [bold]OR[/bold]
-4b. Pressurised gas has been shunted to the waste pipenet [check]
+4b. Pressurised coolant gas has been shunted to the waste pipenet [check]
 [bold]OR[/bold]
-4c. Pressurised gas has been safely stored within a sealed canister [check]
+4c. Pressurised coolant gas has been safely stored within a sealed canister [check]
 
 
 [head=3]Additional Notes (Optional):[/head]
