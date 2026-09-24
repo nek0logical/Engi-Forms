@@ -53,12 +53,6 @@ If using an automatic controller:
 
 7. At least five minutes have lapsed and both the nuclear reactor and gas turbine are stable [check]
 
-
-
-2. The fuel rods within the reactor have cooled to below 400C [check]
-
-3. The fuel rods have been safely extracted from the reactor using gloves, and recycled [check]
-
 [head=3]Additional Notes (Optional):[/head]
 [form]
 
