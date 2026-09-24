@@ -1,0 +1,28 @@
+[color=#f39f27]░░▄▀░░ [head=3] Reactor Safe Shutdown Checklist [/head]
+░▄█▄▄▀ [bold] Generation & Maintenance  [/bold]
+██▀░░░ [bold] Author: [/color][signature][color=#f39f27] [/bold]
+[head=3]////////////////////////////////////////////////////[/head][/color]
+
+This document serves to promote proper engineering protocol and eliminate unsafe working practices. It is generalised for most NanoTrasen nuclear reactor installations, and engineers are encouraged to note station specific infrastructure.
+
+Date: 2984-[form]-[form]
+Station Time: [form]:[form]
+
+1. The control rods have been inserted to 100% [check]
+
+2. The fuel rods within the reactor have cooled to below 400C [check]
+
+3. The fuel rods have been safely extracted from the reactor using gloves, and recycled [check]
+
+4a. Pressurised gas has been purged into space [check]
+[bold]OR[/bold]
+4b. Pressurised gas has been shunted to the waste pipenet [check]
+[bold]OR[/bold]
+4c. Pressurised gas has been safely stored within a sealed canister [check]
+
+
+[head=3]Additional Notes (Optional):[/head]
+[form]
+
+[color=#f39f27][head=3]////////////////////////////////////////////////////[/head][/color]
+[italic][color=#aaaaaa]The assigned engineer accepts full responsibility for the safe shutdown of the Nuclear Reactor, and is fully liable if the above information is found to be falsified or incorrect.
