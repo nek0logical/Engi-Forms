@@ -1,5 +1,5 @@
 [color=#f39f27]░░▄▀░░ [head=3] Pre-Startup Reactor Inspection Checklist[/head]
-░▄█▄▄▀ [bold] Generation & Maintenance  [/bold]
+░▄█▄▄▀ [bold] Generation & Maintenance ENG-N01[/bold]
 ██▀░░░ [bold] Author: [/color][signature][color=#f39f27] [/bold]
 [head=3]////////////////////////////////////////////////////[/head][/color]
 
@@ -18,7 +18,7 @@ Station Time: [form]:[form]
 
 [check] The nuclear reactor monitor, if one exists, is linked to the nuclear reactor
 
-[check] The gas turbine monitor, if one exists is linked to the gas turbine
+[check] The gas turbine monitor, if one exists, is linked to the gas turbine
 
 [check] The gas turbine's blades and stator assembly are in excellent condition and are secured inside the gas turbine
 
