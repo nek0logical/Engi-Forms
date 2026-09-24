@@ -20,7 +20,7 @@ Station Time: [form]:[form]
 
 [check] The gas turbine monitor, if one exists is linked to the gas turbine
 
-[check] The gas turbine's blades and stator assembly are in good condition inside the gas turbine
+[check] The gas turbine's blades and stator assembly are in excellent condition and are secured inside the gas turbine
 
 
 [head=3]Additional Notes (Optional):[/head]
